@@ -1,1 +1,1 @@
-[Surge Deployment link](rafay.surge.sh)
+[Surge Deployment link](https://rafay.surge.sh/)
